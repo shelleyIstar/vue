@@ -1,5 +1,4 @@
 # vue-learn
-test
 
 ## Project setup
 ```
